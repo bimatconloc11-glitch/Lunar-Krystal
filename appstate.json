@@ -5,8 +5,8 @@
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-10-06T02:43:52.114Z",
-		"lastAccessed": "2026-10-06T02:43:52.115Z"
+		"creation": "2026-10-06T03:24:37.360Z",
+		"lastAccessed": "2026-10-06T03:24:37.361Z"
 	},
 	{
 		"key": "vpd",
@@ -14,43 +14,34 @@
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-10-06T02:43:52.115Z",
-		"lastAccessed": "2026-10-06T02:43:52.115Z"
-	},
-	{
-		"key": "datr",
-		"value": "yVrEasm95fNHQhb2UDVkg_kj",
-		"domain": "facebook.com",
-		"path": "/",
-		"hostOnly": false,
-		"creation": "2026-10-06T02:43:52.115Z",
-		"lastAccessed": "2026-10-06T02:43:52.115Z"
+		"creation": "2026-10-06T03:24:37.361Z",
+		"lastAccessed": "2026-10-06T03:24:37.361Z"
 	},
 	{
 		"key": "fr",
-		"value": "0avwGURrUZKUHmcSl.AWcxVZVtyr_-6LlmoczG-9uyfhmYOPzB-CtaJ6m8tUOM66Og5Dw.BqwisR..AAA.0.0.BqxGBj.AWdkC5Sz6CDbeBioOz95g-w6XRc",
+		"value": "0avwGURrUZKUHmcSl.AWcc_BpsRrf2__pU72zm21fLva8eefTUsfea0mVetZyKAwDlXks.BqwisR..AAA.0.0.BqxGnt.AWdtIbrUKyAnMUBdh22195HHg5I",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-10-06T02:43:52.115Z",
-		"lastAccessed": "2026-10-06T02:43:52.115Z"
+		"creation": "2026-10-06T03:24:37.361Z",
+		"lastAccessed": "2026-10-06T03:24:37.361Z"
 	},
 	{
 		"key": "wl_cbv",
-		"value": "v2%3Bclient_version%3A3316%3Btimestamp%3A1791254627",
+		"value": "v2%3Bclient_version%3A3316%3Btimestamp%3A1791257069",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-10-06T02:43:52.115Z",
-		"lastAccessed": "2026-10-06T02:43:52.115Z"
+		"creation": "2026-10-06T03:24:37.361Z",
+		"lastAccessed": "2026-10-06T03:24:37.361Z"
 	},
 	{
 		"key": "fbl_st",
-		"value": "100615958%3BT%3A29854243",
+		"value": "100626524%3BT%3A29854284",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-10-06T02:43:52.115Z",
-		"lastAccessed": "2026-10-06T02:43:52.115Z"
+		"creation": "2026-10-06T03:24:37.361Z",
+		"lastAccessed": "2026-10-06T03:24:37.361Z"
 	}
 ]
